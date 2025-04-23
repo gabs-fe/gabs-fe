@@ -34,8 +34,9 @@
       </div>
       <div align="center">
         <h3>⭐ Redes Sociais</h3>
-        <a href="https://www.linkedin.com/in/gabriellyferreirati/">
-          <img src="https://img.shields.io/badge/LinkedIn-Gaby-0e76a8?logo=linkedin&style=for-the-badge"/>
+         <a href="https://instagram.com/gabs.devclub" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href = "mailto:gabriellydossantos2704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://https://www.linkedin.com/in/gabriellyferreirati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         </a><br/>
         <a href="https://instagram.com/gabs.devclub">
           <img src="https://img.shields.io/badge/Instagram-@gabs.devclub-e4405f?logo=instagram&style=for-the-badge"/>
