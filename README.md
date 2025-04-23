@@ -1,15 +1,15 @@
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+<table border="0" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top" style="border: none; padding: 0; margin: 0;">
+    <td width="50%">
       <div align="center">
-        <h2>Olá mundo! </br>Eu sou a Gaby! 💚</h2>
+        <h2>Olá mundo! Eu sou a Gaby! 💚</h2>
       </div>
       <div align="center">
-        👩‍💻 Desenvolvedora Front-end <br/>
+        👩‍💻 Desenvolvedora Front‑end <br/>
         <em>“Slow down, you're doing fine”</em>
       </div>
       <div align="center">
-        <h3>🛠 Ferramentas &amp; Linguagens</h3>
+        <h3>🛠 Ferramentas &amp; Linguagens </h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="HTML"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="CSS"/>
@@ -17,20 +17,20 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
       </div>
       <div align="center">
-        <h3>🔮 Sobre mim</h3>
+        <h3>🔮 Sobre mim </h3>
         🎓 Graduanda em Ciência da Computação<br/>
         📸 Conteúdo dev no Instagram <a href="https://instagram.com/gabs.devclub">@gabs.devclub</a><br/>
-        ☕ Sobrevivendo à base de café + playlists lo-fi + cozy games
+        ☕ Café + playlists lo‑fi + cozy games
       </div>
       <div align="center">
-        <h4>Seja bem-vindo(a)!💚</h4>
+        <h4>Seja bem‑vindo(a)! Volte sempre! 💚</h4>
       </div>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 0; margin: 0;">
+    <td width="50%" valign="top">
       <div align="center">
         <h3>🥇 Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=radical&hide_title=true" height="160" width="200"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=radical" height="160" width="200"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=radical&hide_title=true" height="160"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=radical" height="160"/>
       </div>
       <div align="center">
         <h3>⭐ Redes Sociais</h3>
