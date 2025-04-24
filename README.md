@@ -9,7 +9,7 @@
         <em>“Slow down, you're doing fine”</em>
       </div>
       <div align="center">
-        <h3>🛠 Ferramentas &amp; Linguagens </h3>
+        <h3>💫 Estudando sobre... </h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="HTML"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="CSS"/>
@@ -19,7 +19,6 @@
       <div align="center">
         <h3>🔮 Sobre mim </h3>
         🎓 Graduanda em Ciência da Computação<br/>
-        📸 Conteúdo dev no Instagram <a href="https://instagram.com/gabs.devclub">@gabs.devclub </a> <br/>
         ☕ Café + playlists lo‑fi + cozy games
       </div>
       <div align="center">
@@ -37,7 +36,6 @@
         <a href="https://instagram.com/gabs.devclub" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href = "mailto:gabriellydossantos2704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://https://www.linkedin.com/in/gabriellyferreirati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <a href="https://instagram.com/gabs.devclub"> <img src="https://img.shields.io/badge/Instagram-@gabs.devclub-e4405f?logo=instagram&style=for-the-badge"/></a>
         <a href="https://teuSite.vercel.app"> <img src="https://img.shields.io/badge/Portfólio-✨-ff69b4?style=for-the-badge&logo=aboutdotme"/></a>
       </div>
     </td>
