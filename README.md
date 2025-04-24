@@ -2,7 +2,7 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <h2>Olá mundo! Eu sou a Gaby! 💚</h2>
+        <h2> Olá mundo! Eu sou a Gaby! 💚</h2>
       </div>
       <div align="center">
         👩‍💻 Desenvolvedora Front‑end <br/>
@@ -19,11 +19,11 @@
       <div align="center">
         <h3>🔮 Sobre mim </h3>
         🎓 Graduanda em Ciência da Computação<br/>
-        📸 Conteúdo dev no Instagram <a href="https://instagram.com/gabs.devclub">@gabs.devclub</a><br/>
+        📸 Conteúdo dev no Instagram <a href="https://instagram.com/gabs.devclub">@gabs.devclub </a> <br/>
         ☕ Café + playlists lo‑fi + cozy games
       </div>
       <div align="center">
-        <h4>Seja bem‑vindo(a)! Volte sempre! 💚</h4>
+        <h4> Seja bem‑vindo(a)! Volte sempre! 💚</h4>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -34,16 +34,11 @@
       </div>
       <div align="center">
         <h3>⭐ Redes Sociais</h3>
-         <a href="https://instagram.com/gabs.devclub" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href="https://instagram.com/gabs.devclub" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href = "mailto:gabriellydossantos2704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://https://www.linkedin.com/in/gabriellyferreirati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        </a><br/>
-        <a href="https://instagram.com/gabs.devclub">
-          <img src="https://img.shields.io/badge/Instagram-@gabs.devclub-e4405f?logo=instagram&style=for-the-badge"/>
-        </a><br/>
-        <a href="https://teuSite.vercel.app">
-          <img src="https://img.shields.io/badge/Portfólio-✨-ff69b4?style=for-the-badge&logo=aboutdotme"/>
-        </a>
+        <a href="https://instagram.com/gabs.devclub"> <img src="https://img.shields.io/badge/Instagram-@gabs.devclub-e4405f?logo=instagram&style=for-the-badge"/></a>
+        <a href="https://teuSite.vercel.app"> <img src="https://img.shields.io/badge/Portfólio-✨-ff69b4?style=for-the-badge&logo=aboutdotme"/></a>
       </div>
     </td>
   </tr>
