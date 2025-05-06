@@ -27,8 +27,8 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>➮ Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=aura&hide_title=true" height="160" width= "250"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=aura" height="160" width= "250"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=aura&hide_title=true" height="170" width= "450"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=aura" height="160" width= "450"/>
       </div>
       <div align="center">
         <h3>➮ Redes Sociais</h3>
