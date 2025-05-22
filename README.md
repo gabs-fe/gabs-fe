@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/gabriellyferreirati/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://gabs-fe.github.io/" target="_blank">
+  <a href="https://portfolio-gaby-five.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-✨-ff69b4?style=for-the-badge&logo=aboutdotme"/>
   </a>
 
