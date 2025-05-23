@@ -24,9 +24,9 @@
     </p>
     <br/>
     <h3>Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=apprentice&hide_title=true" height="170" width="500"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=apprentice&hide_title=true" height="150"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=apprentice" height="170" width="500"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=apprentice" height="150"/>
     <br/>
     <h3>Social</h3>
     <a href="mailto:gabriellydossantos2704@gmail.com" target="_blank" rel="noopener noreferrer">
