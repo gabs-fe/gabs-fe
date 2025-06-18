@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ae74d4&center=false&vCenter=false&width=500&lines=Olá,+eu+sou+a+Gabrielly!" alt="typing animation" />
 
+<hr> 
+
 ### ➥ SOBRE MIM
   🎓 Graduação em Ciência da Computação  
   👩🏻‍💻 Desenvolvedora Front-End  
@@ -34,3 +36,7 @@
   <a href="https://portfolio-gaby-five.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=fff"/>
   </a>
+
+<hr> 
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=300&size=22&pause=1000&color=ae74d4&center=false&vCenter=false&width=500&lines=Seja%20bem%20vindo(a)!" alt="">
