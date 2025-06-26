@@ -33,6 +33,4 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=fff"/>
   </a>
 
-<hr> 
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=300&size=22&pause=1000&color=ae74d4&center=false&vCenter=false&width=500&lines=Seja%20bem%20vindo(a)!" alt="">
