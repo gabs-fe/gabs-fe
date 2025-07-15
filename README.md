@@ -18,8 +18,8 @@
 
 ### ➥ ESTATÍSTICAS
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=midnight-purple&hide_title=true" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=midnight-purple" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=midnight-purple&hide_title=true" width="500" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=midnight-purple" width="500" />
   </div>
 
 ### ➥ CONTATO
