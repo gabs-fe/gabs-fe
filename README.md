@@ -6,7 +6,7 @@
   💻 Estagiária de Desenvolvimento no SENAI Centro 4.0  
   
 
-### ➥ ESTUDANDO SOBRE
+### ➥ ESTUDANDO...
   <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" alt="react" />
