@@ -17,10 +17,10 @@
   </div>
 
 ### ➥ ESTATÍSTICAS
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=midnight-purple&hide_title=true" width="500" /> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=midnight-purple" width="500" />
-  </div>
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=midnight-purple&hide_title=true" style="height: 200px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=midnight-purple" style="height: 200px; object-fit: contain;" />
+</div>
 
 ### ➥ CONTATO
   <a href="mailto:gabriellydossantos2704@gmail.com" target="_blank" rel="noopener noreferrer">
