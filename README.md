@@ -30,5 +30,5 @@ Estudante de Ciência da Computação, atualmente estagiando na área de Desenvo
 
 ### ▸ ESTATÍSTICAS
 
-<img align="left" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br&rank_icon=github" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=donut&theme=graywhite&locale=pt-br&hide_progress=false" alt="Linguagens mais usadas"/>
+<img align="left" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=aura&include_all_commits=true&locale=pt-br&rank_icon=github" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=donut&theme=aura&locale=pt-br&hide_progress=false" alt="Linguagens mais usadas"/>
