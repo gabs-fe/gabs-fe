@@ -1,36 +1,41 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ae74d4&center=false&vCenter=false&width=500&lines=Olá,+eu+sou+a+Gabrielly!" alt="typing animation" />
+## OLÁ! EU SOU A GABY! 💜
 
-### ➥ SOBRE MIM
-  🎓 Graduação em Ciência da Computação  
-  👩🏻‍💻 Desenvolvedora FullStack  
-  💻 Estagiária de Desenvolvimento no SENAI Centro 4.0  
-  
+Estudante de Ciência da Computação, atualmente estagiando na área de Desenvolvimento de Software. Tenho foco em desenvolvimento fullstack, explorando tanto o front-end quanto o back-end para construir aplicações completas e funcionais.
 
-### ➥ ESTUDANDO...
-  <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" alt="react" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="css3" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
-  </div>
+</br>
 
-### ➥ ESTATÍSTICAS
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=midnight-purple&hide_title=true" style="height: 200px; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=midnight-purple" style="height: 200px; object-fit: contain;" />
+### ▸ ESTUDANDO...
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
-### ➥ CONTATO
-  <a href="mailto:gabriellydossantos2704@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=fff"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gabriellyferreirati/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedIn&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-gaby-five.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=fff"/>
-  </a>
+</br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=300&size=22&pause=1000&color=ae74d4&center=false&vCenter=false&width=500&lines=Seja%20bem%20vindo(a)!" alt="">
+### ▸ HOBBIES
+
+ **Jogos aconchegantes** e desenvolvimento com **C# + Unity**  
+ **Jazz & Blues** - sempre com música de fundo pra codar  
+ **Design Gráfico / UI/UX** - Figma sempre!
+
+</br>
+
+### ▸ CONTATO
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+
+</br>
+
+### ▸ ESTATÍSTICAS
+
+<img align="left" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br&rank_icon=github" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=donut&theme=graywhite&locale=pt-br&hide_progress=false" alt="Linguagens mais usadas"/>
