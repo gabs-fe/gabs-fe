@@ -2,8 +2,6 @@
 
 Estudante de Ciência da Computação, atualmente estagiando na área de Desenvolvimento de Software. Tenho foco em desenvolvimento fullstack, explorando tanto o front-end quanto o back-end para construir aplicações completas e funcionais.
 
-</br>
-
 ### ▸ ESTUDANDO...
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -18,23 +16,17 @@ Estudante de Ciência da Computação, atualmente estagiando na área de Desenvo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
-</br>
-
 ### ▸ HOBBIES
 
  **Jogos aconchegantes** e desenvolvimento com **C# + Unity**  
  **Jazz & Blues** - sempre com música de fundo pra codar  
  **Design Gráfico / UI/UX** - Figma sempre!
 
-</br>
-
 ### ▸ CONTATO
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-
-</br>
 
 ### ▸ ESTATÍSTICAS
 
