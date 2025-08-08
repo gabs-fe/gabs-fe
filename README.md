@@ -1,6 +1,6 @@
 ## OLÁ! EU SOU A GABY! 💜
 
-Estudante de Ciência da Computação, atualmente estagiando na área de Desenvolvimento de Software. Tenho foco em desenvolvimento fullstack, explorando tanto o front-end quanto o back-end para construir aplicações completas e funcionais.
+Sou estudante de Ciência da Computação e atualmente estagio na área de Desenvolvimento de Software. Atuo como desenvolvedor fullstack, explorando tanto o front-end quanto o back-end para criar aplicações completas e funcionais. Também tenho um grande interesse por design e UI/UX, buscando sempre oferecer experiências intuitivas e agradáveis para o usuário. Seja bem vindo(a)!👩🏻‍💻
 
 ### ▸ ESTUDANDO...
 
