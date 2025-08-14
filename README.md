@@ -1,32 +1,38 @@
-## OLÁ! EU SOU A GABY! 💜
-Desenvolvedora Front-end | Estudante de Ciência da Computação e estagiária na área de Desenvolvimento de Software. Focada em UI/UX e na criação de interfaces amigáveis e funcionais. Seja bem vindo(a)!👩🏻‍💻
+# Olá, mundo! 💜
+Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo como estagiária em Desenvolvimento de Software no SENAI Centro 4.0. Focada em UI/UX Design, busco criar interfaces proporcionem a melhor experiência para o usuário. Seja bem vindo(a)! 
 
-### ▸ ESTUDANDO...
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+### ⮎ Ferramentas & Tecnologias  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+ </div>
+
+### ⮎  Hobbies & Gostos
+
+- 🎮 Jogos aconchegantes e desenvolvimento com **C# + Unity**  
+- 🎷 Jazz & Blues — sempre com música de fundo para codar  
+- 🖌 Design Gráfico / UI/UX  
+
+### ⮎ Contato  
+
+<div style="display: flex; gap: 10px;">
+  <a href="mailto:gabriellydossantos2704@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff2b6e?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriellyferreirati/">
+    <img src="https://img.shields.io/badge/LinkedIn-ff2b6e?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.gabsfe.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-ff2b6e?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </div>
 
-### ▸ HOBBIES
-
- **Jogos aconchegantes** e desenvolvimento com **C# + Unity**  
- **Jazz & Blues** - sempre com música de fundo pra codar  
- **Design Gráfico / UI/UX** - Figma sempre!
-
-### ▸ CONTATO
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-
-### ▸ ESTATÍSTICAS
-
-<img align="left" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=aura&include_all_commits=true&locale=pt-br&rank_icon=github" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=donut&theme=aura&locale=pt-br&hide_progress=false" alt="Linguagens mais usadas"/>
