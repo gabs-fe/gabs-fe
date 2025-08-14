@@ -1,6 +1,5 @@
 ## OLÁ! EU SOU A GABY! 💜
-
-Sou estudante de Ciência da Computação e atualmente estagio na área de Desenvolvimento de Software. Atuo como desenvolvedor fullstack, explorando tanto o front-end quanto o back-end para criar aplicações completas e funcionais. Também tenho um grande interesse por design e UI/UX, buscando sempre oferecer experiências intuitivas e agradáveis para o usuário. Seja bem vindo(a)!👩🏻‍💻
+Desenvolvedora Front-end | Estudante de Ciência da Computação e estagiária na área de Desenvolvimento de Software. Focada em UI/UX e na criação de interfaces amigáveis e funcionais. Seja bem vindo(a)!👩🏻‍💻
 
 ### ▸ ESTUDANDO...
 
@@ -9,7 +8,6 @@ Sou estudante de Ciência da Computação e atualmente estagio na área de Desen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
