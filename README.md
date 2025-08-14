@@ -1,5 +1,5 @@
 # Olá, mundo! 💜
-Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo como estagiária em Desenvolvimento de Software no SENAI Centro 4.0. Focada em UI/UX Design, busco criar interfaces proporcionem a melhor experiência para o usuário. Seja bem vindo(a)! 
+Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo como estagiária em Desenvolvimento de Software no SENAI Centro 4.0. Focada em UI/UX Design, busco criar interfaces que proporcionem a melhor experiência para o usuário. Seja bem vindo(a)! 
 
 
 ### ⮎ Ferramentas & Tecnologias  
@@ -18,21 +18,28 @@ Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo
 
 ### ⮎  Hobbies & Gostos
 
-- 🎮 Jogos aconchegantes e desenvolvimento com **C# + Unity**  
-- 🎷 Jazz & Blues — sempre com música de fundo para codar  
-- 🖌 Design Gráfico / UI/UX  
+- 🕹️  Jogos aconchegantes e desenvolvimento com **C# + Unity**  
+- 🎶  Jazz & Blues — sempre com música de fundo para codar  
+- 🎨  Design Gráfico / UI/UX  
 
 ### ⮎ Contato  
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex;">
   <a href="mailto:gabriellydossantos2704@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff2b6e?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-3e9881?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabriellyferreirati/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff2b6e?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2e705f?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.gabsfe.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-ff2b6e?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-276052?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
+</div>
+
+</br>
+
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=tokyonight" />
 </div>
 
