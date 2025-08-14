@@ -39,7 +39,7 @@ Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo
 </br>
 
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=tokyonight" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=tokyonight" />
 </div>
 
