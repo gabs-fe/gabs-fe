@@ -2,7 +2,7 @@
 Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo como estagiária em Desenvolvimento de Software no SENAI Centro 4.0. Focada em UI/UX Design, busco criar interfaces que proporcionem a melhor experiência para o usuário. Seja bem vindo(a)! 
 
 
-### ⮎ Ferramentas & Tecnologias  
+### ✶ Estudando sobre...
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,13 +16,13 @@ Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
  </div>
 
-### ⮎  Hobbies & Gostos
+### ✶  Hobbies & Gostos
 
 - 🕹️  Jogos aconchegantes e desenvolvimento com **C# + Unity**  
 - 🎶  Jazz & Blues — sempre com música de fundo para codar  
 - 🎨  Design Gráfico / UI/UX  
 
-### ⮎ Contato  
+### ✶ Contato  
 
 <div style="display: flex;">
   <a href="mailto:gabriellydossantos2704@gmail.com">
@@ -38,8 +38,9 @@ Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo
 
 </br>
 
+### ✶ Estatísticas  
+
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=tokyonight" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=tokyonight" />
 </div>
-
