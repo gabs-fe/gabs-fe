@@ -13,14 +13,7 @@ Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
- </div>
-
-### ✶  Hobbies & Gostos
-
-- 🕹️  Jogos aconchegantes e desenvolvimento com **C# + Unity**  
-- 🎶  Jazz & Blues — sempre com música de fundo para codar  
-- 🎨  Design Gráfico / UI/UX  
+ </div> 
 
 ### ✶ Contato  
 
