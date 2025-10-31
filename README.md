@@ -17,13 +17,13 @@
 ### ✶ Contact  
 
 <div style="display: flex;">
-  <a href="mailto:gabriellydossantos2704@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-3e9881?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriellyferreirati/">
-    <img src="https://img.shields.io/badge/LinkedIn-2e705f?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.gabsfe.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-276052?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+  <a href="mailto:gabriellydossantos2704@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-3e9881?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriellyferreirati/">
+    <img src="https://img.shields.io/badge/LinkedIn-2e705f?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.gabsfe.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-276052?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </div>
