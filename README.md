@@ -1,8 +1,6 @@
 # Hello, World! 💜
 **Front-end Developer** | Computer Science Student. Software Development Intern at **SENAI Centro 4.0**. Studying **UI/UX Design**, focused on creating interfaces that ensure the best user experience. Welcome!
 
----
-
 ### ✶ Currently Studying...
 
 <div style="display: flex;">
@@ -15,8 +13,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
  </div> 
-
----
 
 ### ✶ Contact  
 
