@@ -28,12 +28,3 @@ Desenvolvedora Front-end, graduanda em Ciência da Computação, atualmente atuo
     <img src="https://img.shields.io/badge/Portfólio-276052?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
-
-</br>
-
-### ✶ Estatísticas  
-
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabs-fe&show_icons=true&theme=tokyonight" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-fe&layout=compact&theme=tokyonight" />
-</div>
